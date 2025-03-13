@@ -9,6 +9,10 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+ Testing stagging server
+
+this is the test file to check the stagging server.
+
 .. note::
 
    This project is under active development.
