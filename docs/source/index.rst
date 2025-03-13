@@ -24,3 +24,4 @@ Contents
 
    usage
    api
+   add-user/index
