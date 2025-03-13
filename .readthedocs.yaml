@@ -18,7 +18,7 @@ python:
 sphinx:
   configuration: docs/source/conf.py
 
- versions:
+versions:
    - main
    - stagging 
    - production 
